@@ -1,0 +1,26 @@
+{
+  "name": "Futbol_Web",
+  "version": "1.0.0",
+  "description": "CRUD para Ligas, equipos y jugadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloMR/Futbol_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamiloMR/Futbol_Web/issues"
+  },
+  "homepage": "https://github.com/CamiloMR/Futbol_Web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.17.1"
+  }
+}
